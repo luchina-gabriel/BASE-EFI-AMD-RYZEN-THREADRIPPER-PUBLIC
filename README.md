@@ -2,9 +2,9 @@
 
 ## How to GET a COPY of BASE EFI <br> Como obter a CÓPIA da EFI BASE
 
-🇺🇸 - To download EFI BASEs, you must be a member of any category on the YouTube channel and connect your Discord to your YouTube account to access the `#efi-base` channel;
+🇺🇸 - To download EFI BASEs, you must be a member of any category on the [YouTube Channel](https://hackintosh.one/s/seja-membro) and connect your Discord to your YouTube account to access the [#efi-base](https://discord.com/channels/887798875069505587/1184144798312038512) channel;
 <br><br>
-🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
+🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no [Canal do YouTube](https://hackintosh.one/s/seja-membro) e conectar seu Discord à sua conta YouTube para acesso à sala [#efi-base](https://discord.com/channels/887798875069505587/1184144798312038512);
 
 ![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC/assets/23700365/c7062e03-2c61-4715-bd75-2dac9fd0d5f8)
 <br>

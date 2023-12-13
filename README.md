@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC/assets/23700365/c7062e03-2c61-4715-bd75-2dac9fd0d5f8)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC/assets/23700365/0d91e920-a254-441f-ac52-ab8b31869330)
+
 # Basic Info
 
 Note|Description

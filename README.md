@@ -25,8 +25,8 @@ Note|Description
 Initial macOS Support|macOS 10.13, High Sierra.
 Last Supported OS|macOS 15 Sequoia.
 
-- Opencore version: 1.0.1-v2
-- Release date: 19/09/2024
+- Opencore version: 1.0.2
+- Release date: 08/10/2024
 
 # Basic Steps
 

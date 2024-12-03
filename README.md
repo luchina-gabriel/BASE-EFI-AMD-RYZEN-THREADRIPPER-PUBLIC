@@ -1,4 +1,4 @@
-# BASE EFI AMD - Ryzen and Threadripper (1XXX, 2XXX, 3XXX, 4XXX, 5XXX & 7XXX) and Athlon 2xxGE
+# BASE EFI AMD - Ryzen and Threadripper (1XXX, 2XXX, 3XXX, 4XXX, 5XXX & 7XXX/8XXX/9XXXX) and Athlon 2xxGE
 
 # 🛠️ Remote Services | Serviços remotos
 
@@ -25,8 +25,8 @@ Note|Description
 Initial macOS Support|macOS 10.13, High Sierra.
 Last Supported OS|macOS 15 Sequoia.
 
-- Opencore version: 1.0.2
-- Release date: 08/10/2024
+- Opencore version: 1.0.3
+- Release date: 03/12/2024
 
 # Basic Steps
 

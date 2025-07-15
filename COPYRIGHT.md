@@ -20,7 +20,7 @@ Grande parte das implementações e conceitos aqui apresentados tem como base a 
 
 > ⚠️ **Atualização legal:**  
 > Este repositório passou a conter a cláusula completa da licença BSD-3, por recomendação jurídica.
-> Desde o início, o curso, canal Universo Hackintosh e seus materiais sempre reconheceram abertamente o OpenCore como base técnica, com as devidas referências indicadas em vídeos, aulas e neste arquivo de COPYRIGHT.
+> Desde o início, o curso, canal Universo Hackintosh e seus materiais sempre reconheceram abertamente o OpenCore como base técnica, com as devidas referências indicadas em vídeos, aulas e neste no arquivo de README.md de todos os repositórios.
 > A ausência anterior do texto integral da licença BSD-3 deveu-se apenas ao desconhecimento técnico, nunca por má-fé.
 
 ---
@@ -61,3 +61,7 @@ NÃO podem, em hipótese alguma, ser copiados, modificados, redistribuídos, uti
 4. Ou o uso para qualquer finalidade externa ao curso.
 
 Qualquer uso não autorizado viola os direitos autorais do autor, podendo resultar em responsabilização civil e criminal conforme a legislação brasileira (Lei 9.610/98).
+
+## ✉️ Contato
+
+E-mail: juridico@nue.com.br

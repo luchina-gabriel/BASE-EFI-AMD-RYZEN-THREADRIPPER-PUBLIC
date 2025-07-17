@@ -27,7 +27,11 @@ Grande parte das implementações e conceitos aqui apresentados tem como base a 
 
 ## 📄 Licença BSD-3-Clause (projeto OpenCore)
 
-Copyright (c) [ano] Acidanthera  
+Copyright (c) 2016-2017, The HermitCrabs Lab
+Copyright (c) 2016-2020, Download-Fritz
+Copyright (c) 2017-2020, savvas
+Copyright (c) 2016-2020, vit9696
+
 Todos os direitos reservados.
 
 Redistribuição e uso em formas de código-fonte e binário, com ou sem modificação, são permitidos, desde que as seguintes condições sejam atendidas:
@@ -37,6 +41,25 @@ Redistribuição e uso em formas de código-fonte e binário, com ou sem modific
 3. Nem o nome da Acidanthera nem os nomes de seus colaboradores podem ser usados para endossar ou promover produtos derivados deste software sem permissão prévia específica por escrito.
 
 ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DO DIREITO AUTORAL E COLABORADORES “NO ESTADO EM QUE SE ENCONTRA” E QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO LIMITADA ÀS GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM DETERMINADO FIM, SÃO REJEITADAS. EM NENHUMA HIPÓTESE O DETENTOR DO DIREITO AUTORAL OU COLABORADORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENCIAIS (INCLUINDO, MAS NÃO LIMITADO A, AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO, DADOS OU LUCROS; OU INTERRUPÇÃO DE ATIVIDADE) CAUSADOS E EM QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE ESTRITA OU ATO ILÍCITO (INCLUINDO NEGLIGÊNCIA OU OUTRO) DECORRENTE DE QUALQUER FORMA DO USO DESTE SOFTWARE, MESMO QUE AVISADO DA POSSIBILIDADE DE TAIS DANOS.
+
+---
+
+Copyright (c) 2016-2017, The HermitCrabs Lab
+Copyright (c) 2016-2020, Download-Fritz
+Copyright (c) 2017-2020, savvas
+Copyright (c) 2016-2020, vit9696
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 

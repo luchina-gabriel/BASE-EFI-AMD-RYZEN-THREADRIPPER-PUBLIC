@@ -25,9 +25,9 @@ Note|Description
 Initial macOS Support|macOS 10.13, High Sierra.
 Last Supported OS|macOS 26 Tahoe.
 
-- Opencore version: 1.0.5
-- Release date (OC/Kexts): 07/07/2025
-- Last Update Repository: 09/10/2025
+- Opencore version: 1.0.6
+- Release date (OC/Kexts): 03/11/2025
+- Last Update Repository: 03/11/2025
 
 # Basic Steps
 

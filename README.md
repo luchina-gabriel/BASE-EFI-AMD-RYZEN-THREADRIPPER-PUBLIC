@@ -2,17 +2,15 @@
 
 # 🛠️ Remote Services | Serviços remotos
 
-🇺🇸 - If you wish, we can create your EFI and [install macOS remotely](https://universohackintosh.com/portal/consultoria-profissional-para-hackintosh/#servico-instalacao-completa-do-hackintosh), just hire our services via the email below.
+🇺🇸 - If you wish, we can create your EFI and [install macOS remotely](https://hackintoshprofissional.com), just click on the link to the side and hire our services.
 <br>
-🇧🇷 - Se desejar, criamos sua EFI e realizamos a [instalação remotamente do macOS](https://universohackintosh.com/portal/consultoria-profissional-para-hackintosh/#servico-instalacao-completa-do-hackintosh), basta contratar nossos serviços pelo e-mail abaixo.
-<br>
-✉️ - Endereço EXCLUSIVO para contratação de serviços: consultoria@universohackintosh.com.br.
+🇧🇷 - Se desejar, criamos sua EFI e realizamos a [instalação remotamente do seu Hackintosh](https://hackintoshprofissional.com.br), basta clicar no link ao lado e contratar nossos serviços.
 
 # 🆘 How to GET a COPY of BASE EFI <br> 🆘 Como obter a CÓPIA da EFI BASE
 
-🇺🇸 - To download EFI BASEs, you must be a member of "Hackintosh 2024/2025" in [YouTube Channel](https://hackintosh.one/s/seja-membro) and connect your Discord to your YouTube account to access the [#efi-base](https://discord.com/channels/887798875069505587/1184144798312038512) channel;
+🇺🇸 - To download EFI BASEs, you must be a member of "Hackintosh - Avançado" in [YouTube Channel](https://hackintosh.one/s/seja-membro) and connect your Discord to your YouTube account to access the [#efi-base](https://discord.com/channels/887798875069505587/1184144798312038512) channel;
 <br><br>
-🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro "Hackintosh 2024/2025" no [Canal do YouTube](https://hackintosh.one/s/seja-membro) e conectar seu Discord à sua conta YouTube para acesso à sala [#efi-base](https://discord.com/channels/887798875069505587/1184144798312038512);
+🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro "Hackintosh - Avançado" no [Canal do YouTube](https://hackintosh.one/s/seja-membro) e conectar seu Discord à sua conta YouTube para acesso à sala [#efi-base](https://discord.com/channels/887798875069505587/1184144798312038512);
 
 ![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC/assets/23700365/c7062e03-2c61-4715-bd75-2dac9fd0d5f8)
 <br>
@@ -27,7 +25,7 @@ Last Supported OS|macOS 26 Tahoe.
 
 - Opencore version: 1.0.6
 - Release date (OC/Kexts): 03/11/2025
-- Last Update Repository: 03/11/2025
+- Last Update Repository: 05/03/2026
 
 # Basic Steps
 
@@ -77,10 +75,12 @@ Kext|Description
 [RealtekRTL8100.kext](https://github.com/luchina-gabriel/youtube-files/raw/main/RealtekRTL8100-V2.0.1.zip)|Required for Realtek FE Familly Controller - 10/100 Mbps. Common on older hardware.
 [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)|Required for Realtek Gigabit Ethernet. Realtek GbE Familly Controller<br>Sometimes the latest version of the kext might not work properly with your Ethernet. If you see this issue, try older versions.
 [LucyRTL8125Ethernet.kext](https://github.com/Mieze/LucyRTL8125Ethernet/releases)|Required for Realtek 2.5Gb Ethernet.
+[RTL812xLucy.kext](https://github.com/Mieze/RTL812xLucy/releases)|Required for Realtek 2.5Gb Ethernet. (RTL8125 Variants, like RTL8125A, RTL8125B, RTL8125BP, RTL8125CP, RTL8125D). Alternative to LucyRTL8125Ethernet.
 [SmallTreeIntel82576.kext](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)| Required for I211 NICs, based off of the SmallTree kext but patched to support I211.<br>Required for most AMD boards running Intel NICs.
 [AppleIGB.kext](https://github.com/donatengit/AppleIGB/releases)|Required for I211 NICs running on macOS Monterey and above. Might have instability issues on some NICs, recommended to stay on Big Sur and use SmallTree. Requires macOS 12 and above.
 [AppleIGC.kext](https://github.com/SongXiaoXi/AppleIGC/releases)|Required for I226 NICs running on macOS Monterey and above. Might have instability issues on some NICs.
 [AppleIntelI210Ethernet.kext](https://github.com/luchina-gabriel/youtube-files/raw/main/AppleIntelI210Ethernet.kext.zip)|Required for Intel i225-V in macOS 12 (Monterey) and above.
+[IntelLucy.kext](https://github.com/Mieze/IntelLucy/releases)|Open source driver for the Intel X500 family of 10GBit Ethernet/SFP controllers.
 
 ### WiFi and Bluetooth
 Kext|Description

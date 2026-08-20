@@ -25,7 +25,7 @@ Last Supported OS|macOS 26 Tahoe.
 
 - Opencore version: 1.0.7
 - Release date (OC/Kexts): 20/03/2026
-- Last Update Repository: 20/03/2026
+- Last Update Repository: 20/08/2026
 
 # Basic Steps
 
